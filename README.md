@@ -14,7 +14,7 @@ To ease the process for a similar requirement , I used this custom view to make 
 It is just an idea you can study the code and customize it as per your use case . 
 
 To use the view in layout : 
-
+```
 <com.medha.borderedtextinputsample.BorderedEditTextWithHeader
         android:id="@+id/orderDate"
         android:layout_width="0dp"
@@ -43,6 +43,7 @@ To use the view in layout :
         <attr name="ctaTextColor" format="color"/>
 
     </declare-styleable>
+    ```
     
     You can change icon and text of Text INput Edit text dynamically like this : 
     
