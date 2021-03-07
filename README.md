@@ -77,10 +77,10 @@ To use the view in layout :
         }
         
         
-      [imagetest1!](https://github.com/Smedha245-unclejoy/BorderedTextInputSample/blob/master/photo_2021-03-07_19-48-43%20(2).jpg?raw=true)  
+      [imagetest1!](https://github.com/Smedha245-unclejoy/BorderedTextInputSample/blob/master/photo_2021-03-07_19-48-43%20(2).jpg)  
       
-      [imagetest2!](https://github.com/Smedha245-unclejoy/BorderedTextInputSample/blob/master/photo_2021-03-07_19-48-43%20(3).jpg?raw=true)  
+      [imagetest2!](https://github.com/Smedha245-unclejoy/BorderedTextInputSample/blob/master/photo_2021-03-07_19-48-43%20(3).jpg)  
       
-      [imagetest3!](https://github.com/Smedha245-unclejoy/BorderedTextInputSample/blob/master/photo_2021-03-07_19-48-43%20(4).jpg?raw=true)  
+      [imagetest3!](https://github.com/Smedha245-unclejoy/BorderedTextInputSample/blob/master/photo_2021-03-07_19-48-43%20(4).jpg)  
       
-      [imagetest4!](https://github.com/Smedha245-unclejoy/BorderedTextInputSample/blob/master/photo_2021-03-07_19-48-43.jpg?raw=true)  
+      [imagetest4!](https://github.com/Smedha245-unclejoy/BorderedTextInputSample/blob/master/photo_2021-03-07_19-48-43.jpg)  
