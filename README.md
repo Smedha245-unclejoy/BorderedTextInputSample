@@ -1,5 +1,10 @@
 # BorderedTextInputSample
 
+ ![imagetest1](photo_2021-03-07_19-48-43%20(2).jpg)                                      ![imagetest2](photo_2021-03-07_19-48-43%20(3).jpg)  
+      
+ ![imagetest3](photo_2021-03-07_19-48-43%20(4).jpg)                                      ![magetest4](photo_2021-03-07_19-48-43.jpg)  
+
+
 A handy Custom TextInputLayout view with configurable right drawable and left drawable cta , and error view. 
 Often times we receive a common Text input view design from UI team and it becomes real pain when you have to add a 
 button inside the Text Input layout and do something on click of that button or show error for all these input fields in a certain way . 
@@ -76,11 +81,3 @@ To use the view in layout :
             // implement as per your convenience
         }
         
-        
-      ![Alt imagetest1](/photo_2021-03-07_19-48-43%20(2).jpg)  
-      
-      ![Alt imagetest2](/photo_2021-03-07_19-48-43%20(3).jpg)  
-      
-      ![Alt imagetest3](/photo_2021-03-07_19-48-43%20(4).jpg)  
-      
-      ![Alt imagetest4](/photo_2021-03-07_19-48-43.jpg)  
