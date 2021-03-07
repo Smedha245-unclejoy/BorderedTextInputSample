@@ -47,6 +47,7 @@ class MainActivity : AppCompatActivity() {
                     binding.contentLayout.phoneNumberEt.setDrawableTextAndCta("Verified",null,
                         ContextCompat.getDrawable(this@MainActivity,R.drawable.phone_verified))
                 }else{
+                    binding.contentLayout.phoneNumberEt.setError("PLease enter a valid number")
                     val rotated = ContextCompat.getDrawable(this@MainActivity, R.drawable.purple_right_arrow)
                     binding.contentLayout.phoneNumberEt.setCtaTextColor(R.color.colorAccent)
                     binding.contentLayout.phoneNumberEt.setDrawableTextAndCta("Verify Your Number", null, rotated)
